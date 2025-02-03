@@ -1,5 +1,6 @@
 ﻿body {
     margin:0px;
+    background: lightgrey;
 }
 h1 {
     font-size: 55px;
@@ -31,6 +32,17 @@ h1 {
     font-weight:600;
     font-family: 'Eras ITC';
 }
-.references{
+.references {
     color: white;
+}
+.content {
+    font-family: 'Eras ITC';
+    font-size: 20px;
+    color: dimgrey;
+    text-align: center;
+    margin: 0px;
+    border: 0px;
+    padding: 10px 60px;
+    background-color: lightgrey;
+    line-height: 7px
 }
