@@ -44,6 +44,18 @@ h1 {
     border: 0px;
     padding: 10px 60px;
     background-color: lightgrey;
-    line-height: 25px;
+    line-height: 7px;
     text-decoration: none;
+}
+.links{
+    font-family: 'Eras ITC';
+    font-size: 37px;
+    color:white;
+    text-align:center;
+    margin:0px;
+    border:0px;
+    padding:80px;
+    background-color:darkslategrey;
+    word-spacing: 40px;
+    text-decoration:none;
 }
