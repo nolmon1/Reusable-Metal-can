@@ -1,4 +1,4 @@
-﻿body {
+body {
     margin:0px;
     background: lightgrey;
 }
@@ -58,4 +58,8 @@ h1 {
     background-color:darkslategrey;
     word-spacing: 40px;
     text-decoration:none;
+}
+.img{
+    height: auto;
+    width: auto;
 }
