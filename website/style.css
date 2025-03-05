@@ -57,7 +57,7 @@ h1 {
     padding:80px;
     background-color:darkslategrey;
     word-spacing: 40px;
-    text-decoration:none;
+    text-decoration:none !important;
 }
 .img{
     height: 350px;
